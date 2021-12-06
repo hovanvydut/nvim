@@ -10,5 +10,4 @@ source $HOME/.config/nvim/plug-config/telescope.vim
 
 source $HOME/.config/nvim/plug-config/tree.lua
 source $HOME/.config/nvim/keys/tree.vim
-
-source $HOME/.config/nvim/plug-config/jedi-vim.vim
+source $HOME/.config/nvim/keys/coc.vim
